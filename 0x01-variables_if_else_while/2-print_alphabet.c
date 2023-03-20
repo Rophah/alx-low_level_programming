@@ -4,7 +4,6 @@
  * main function
  *
  * Return: alway 0
- *
  */
 
 int main(void)
